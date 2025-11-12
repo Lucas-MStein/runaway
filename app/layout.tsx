@@ -2,8 +2,8 @@ import "./globals.css";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Alex Beispiel – Portfolio",
-    description: "Scroll-Sections mit Typewriter-Effekt",
+    title: "Runaway",
+    description: "I need you to run right back to me",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
